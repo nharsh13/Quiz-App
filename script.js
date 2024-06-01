@@ -3,8 +3,8 @@ const questions=[
         question: "Sanskriti which is Harsh favourite Bike?",
 
         answers:[
-            {text: "Royal Enfield",correct:false},
-            {text: "Harley Davidson",correct:true},
+            {text: "Harley Davidson",correct:false},
+            {text: "Royal Enfield",correct:true},
             {text: "Ninja",correct:false},
             {text: "Zx10r",correct:false},
         ]
