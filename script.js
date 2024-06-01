@@ -36,8 +36,8 @@ const questions=[
         question: "Sanskriti what is Harsh favourite food?",
 
         answers:[
-            {text: "Butter Chicked and Naan",correct:false},
-            {text: "Chinese",correct:true},
+            {text: "Chinese",correct:false},
+            {text: "Butter Chicked and Naan",correct:true},
             {text: "Sweets",correct:false},
             {text: "Pizza",correct:false},
         ]
