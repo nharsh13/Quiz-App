@@ -1,45 +1,45 @@
 const questions=[
     {
-        question: "Which is the largest animal in the world?",
+        question: "Sanskriti which is Harsh favourite Bike?",
 
         answers:[
-            {text: "Shark",correct:false},
-            {text: "Blue Whale",correct:true},
-            {text: "Elephant",correct:false},
-            {text: "Giraffe",correct:false},
+            {text: "Royal Enfield",correct:false},
+            {text: "Harley Davidson",correct:true},
+            {text: "Ninja",correct:false},
+            {text: "Zx10r",correct:false},
         ]
     },
 
     {
-        question: "Which is the largest desert in the world?",
+        question: "Sanskriti what do you think , how much harsh loves you?",
 
         answers:[
-            {text: "kalahari",correct:false},
-            {text: "Gobi",correct:false},
-            {text: "Sahara",correct:false},
-            {text: "Antarctica",correct:true}
+            {text: "Enough",correct:false},
+            {text: "Much",correct:false},
+            {text: "Not much",correct:false},
+            {text: "Very Much",correct:true}
         ]
     },
 
     {
-        question: "Which is the smallest country in the world?",
+        question: "Sanskriti what is Harsh favourite color?",
 
         answers:[
-            {text: "Vatican City",correct:true},
-            {text: "Bhutan",correct:false},
-            {text: "Nepal",correct:false},
-            {text: "Sri Lanka",correct:false},
+            {text: "Black",correct:true},
+            {text: "Blue",correct:false},
+            {text: "White",correct:false},
+            {text: "Yellow",correct:false},
         ]
     },
 
     {
-        question: "Which is the smallest continent in the world?",
+        question: "Sanskriti what is Harsh favourite food?",
 
         answers:[
-            {text: "Asia",correct:false},
-            {text: "Australia",correct:true},
-            {text: "Arctic",correct:false},
-            {text: "Africa",correct:false},
+            {text: "Butter Chicked and Naan",correct:false},
+            {text: "Chinese",correct:true},
+            {text: "Sweets",correct:false},
+            {text: "Pizza",correct:false},
         ]
     },
 
