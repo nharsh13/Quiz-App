@@ -7,6 +7,7 @@ const questions=[
             {text: "Harley Davidson",correct:true},
             {text: "Ninja",correct:false},
             {text: "Zx10r",correct:false},
+            
         ]
     },
 
